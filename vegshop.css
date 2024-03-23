@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+  }
+  
+  .title {
+    margin-top: 20px;
+  }
+  
+  .add-container {
+    margin-bottom: 20px;
+  }
+  
+  .vegetable-item {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .vegetable-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  
